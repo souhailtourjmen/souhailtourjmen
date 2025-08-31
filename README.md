@@ -2,7 +2,7 @@
 
 #### I am Mobile App Developer
 
-Skills: React Native, Type script, Animations, NestJS, Java , Firebase, MySQL, Postgres, Rest API.
+Skills: React Native, TypeScript, Animations, NestJS, Java , Firebase, MySQL, Postgres, Rest API.
 
 - Time management experience
 - PMP (project management professional) knowledge.
